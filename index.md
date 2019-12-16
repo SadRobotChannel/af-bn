@@ -1,24 +1,24 @@
 ---
 layout: page
-title: Best Cryptocurrency Faucets
+title: সেরা ক্রিপ্টোকারেন্সি কল
 comments: false
-img: https://www.staleblock.com/assets/images/all-faucets.com-thumb.png
-alt: Cryptocurrency faucets are reward systems in a form of a website or an app that dispense free coins.
-desc: If you're new to crypto faucets this site is for you. Learn how to maximize the value of your time and effort while claiming from free bitcoin faucet sites.
-URL: https://www.staleblock.com/index.html
+img: https://bn.staleblock.com/assets/images/all-faucets.com-thumb.png
+alt: ক্রিপ্টোকারেন্সি কলগুলি হ'ল কোনও ওয়েবসাইট বা কোনও অ্যাপ্লিকেশন যা ফ্রি কয়েন বিতরণ করে এমন আকারে পুরষ্কার সিস্টেম।
+desc: আপনি যদি ক্রিপ্টো কলটিতে নতুন হন তবে এই সাইটটি আপনার জন্য। ফ্রি বিটকয়েন কল সাইট থেকে দাবি করার সময় কীভাবে আপনার সময় এবং প্রচেষ্টার মূল্য বাড়ানো যায় তা শিখুন।
+URL: https://bn.staleblock.com/index.html
 ---
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
 
-If you're new to crypto faucets this site is for you. We list bitcoin and other digital currency faucets that are verified for their value and reputation. Usually people start trying-out faucets out of curiosity, or as a hobby, but with some knowledge and consistency such hobby can offer a good income. Our goal is to share the knowledge and to enable you to earn digital currency in the way that suits your interests and your life-style.
+আপনি যদি ক্রিপ্টো কলটিতে নতুন হন তবে এই সাইটটি আপনার জন্য। আমরা বিটকয়েন এবং অন্যান্য ডিজিটাল মুদ্রার কলগুলি তালিকাবদ্ধ করি যা তাদের মান এবং খ্যাতির জন্য যাচাই করা হয়েছে। সাধারণত লোকেরা কৌতূহল বা শখের বাইরে কল চেষ্টা করে শুরু করে, তবে কিছু জ্ঞান এবং ধারাবাহিকতায় এই শখটি একটি ভাল আয়ের প্রস্তাব দিতে পারে। আমাদের লক্ষ্য জ্ঞান ভাগ করে নেওয়া এবং আপনাকে আপনার আগ্রহ এবং আপনার জীবন-স্টাইলে উপযোগী এমন উপায়ে ডিজিটাল মুদ্রা অর্জন করতে সক্ষম করা।
 
-Continue reading: <a href="https://www.staleblock.com/daily/2019/12/12/index.html">Getting Started with Bitcoin Faucets</a>.
+পড়া চালিয়ে যান: <a href="https://bn.staleblock.com/daily/2019/12/12/index.html">বিটকয়েন কল দিয়ে শুরু করা</a>.
 
 ---
-#### 2019's Favorite Faucets
+#### 2019 এর প্রিয় কল
 
-A lot had changed since we first published this website. One, the price of the Bitcoin went up from circa 3,500 USD to over 10,000 USD occasionally reaching up to 12 or 13 thousands of US dollars. Such an increase in value had put many of the faucet websites out of business, as they could not afford giving away the promised rewards. Many have gone offline without distributing the amounts in your wallets, thus simply stealing your money. These are the risks that you need to be aware of and accept when investing your time or your money in cryptocurrency related services.
+আমরা প্রথম এই ওয়েবসাইটটি প্রকাশের পরে অনেক কিছু পরিবর্তিত হয়েছিল। এক, বিটকয়েনের দাম প্রায় ৩০০০০ মার্কিন ডলার থেকে প্রায় ১০,০০০ মার্কিন ডলারে পৌঁছেছে যা মাঝে মধ্যে ১২ বা ১৩ হাজার মার্কিন ডলারে পৌঁছেছে। প্রতিশ্রুতিযুক্ত পুরষ্কার প্রদানের সামর্থ্য না থাকায় মূল্য বৃদ্ধির ফলে অনেকগুলি কল ওয়েবসাইটকে ব্যবসায়ের বাইরে ফেলেছিল। অনেকে আপনার ওয়ালেটে পরিমাণ বিতরণ না করে অফলাইনে চলে গেছে, এভাবে কেবল আপনার অর্থ চুরি করে। ক্রিপ্টোকারেন্সি সম্পর্কিত পরিষেবাদিগুলিতে আপনার সময় বা আপনার অর্থ বিনিয়োগ করার সময় আপনার সচেতন হওয়া ও গ্রহণ করার দরকার এইগুলি।
 
-Still, the following faucets sites remain loyal to their members and continue dispensing free satoshi:
+তবুও, নিম্নলিখিত কল সাইটগুলি তাদের সদস্যদের প্রতি অনুগত থাকে এবং নিখরচায় সাতোশি বিতরণ করে:
 
 - <a href="http://bit.ly/www-adbtc" target="_blank">adBTC</a>
 - <a href="http://bit.ly/www-btcfox" target="_blank">BtcFox</a>
@@ -32,7 +32,7 @@ Still, the following faucets sites remain loyal to their members and continue di
 - <a href="http://bit.ly/www-free-dogecoin" target="_blank">Free-Dogecoin</a>
 - <a href="http://bit.ly/www-rollercoin" target="_blank">RollerCoin</a>
 
-What is your experience with crypto faucets? Have you tried any of them? Do you have a favorite site?
+ক্রিপ্টো কলগুলির সাথে আপনার অভিজ্ঞতা কী? আপনি কি তাদের কোন চেষ্টা করেছেন? আপনার কোন প্রিয় সাইট আছে?
 
 <div id="commento"></div>
 <script src="https://cdn.commento.io/js/commento.js"></script>
