@@ -14,32 +14,31 @@ URL: https://bn.all-faucets.com/index.html
 পড়া চালিয়ে যান: <a href="https://bn.all-faucets.com/daily/2019/12/12/index.html">বিটকয়েন কল দিয়ে শুরু করা</a>.
 
 ---
-#### 2019 এর প্রিয় কল
+#### সংক্ষিপ্তসার 2019
 
-আমরা প্রথম এই ওয়েবসাইটটি প্রকাশের পরে অনেক কিছু পরিবর্তিত হয়েছিল। এক, বিটকয়েনের দাম প্রায় ৩০০০০ মার্কিন ডলার থেকে প্রায় ১০,০০০ মার্কিন ডলারে পৌঁছেছে যা মাঝে মধ্যে ১২ বা ১৩ হাজার মার্কিন ডলারে পৌঁছেছে। প্রতিশ্রুতিযুক্ত পুরষ্কার প্রদানের সামর্থ্য না থাকায় মূল্য বৃদ্ধির ফলে অনেকগুলি কল ওয়েবসাইটকে ব্যবসায়ের বাইরে ফেলেছিল। অনেকে আপনার ওয়ালেটে পরিমাণ বিতরণ না করে অফলাইনে চলে গেছে, এভাবে কেবল আপনার অর্থ চুরি করে। ক্রিপ্টোকারেন্সি সম্পর্কিত পরিষেবাদিগুলিতে আপনার সময় বা আপনার অর্থ বিনিয়োগ করার সময় আপনার সচেতন হওয়া ও গ্রহণ করার দরকার এইগুলি।
+বছর 2019 এর ক্রিপ্টোকারেন্সি কলগুলিতে একটি ধ্বংসাত্মক প্রভাব ফেলেছিল। বিটকয়েনের দামটি সাড়ে ৩,৫০০ মার্কিন ডলারে শুরু হওয়ার সাথে সাথে শত শত কল সাইটগুলি ইন্টারনেটে উপস্থিত হয়েছিল। তারপরে, একটি বিটিসি দাম মাঝে মধ্যে 10,000 ডলারেরও বেশি বেড়ে যায়, যা মাঝে মধ্যে 12 বা 13 হাজার মার্কিন ডলারে পৌঁছে যায়, বেশিরভাগ সাইটগুলি বন্ধ হয়ে যায় বা তাদের ইন্টারফেসগুলি অকেজো করে দেয় (ক্লিক এবং বিজ্ঞাপনগুলি দিয়ে ওভারলোডিং)।
 
-তবুও, নিম্নলিখিত কল সাইটগুলি তাদের সদস্যদের প্রতি অনুগত থাকে এবং নিখরচায় সাতোশি বিতরণ করে:
+ক্রিপ্টোর মান বৃদ্ধি যা আমরা 2019 এর মাঝামাঝি সময়ে দেখেছি অনেকগুলি কল ওয়েবসাইটকে ব্যবসার বাইরে ফেলেছিল, কারণ তারা প্রতিশ্রুত পুরষ্কারগুলি দিতে পারে না। অনেকে আপনার ওয়ালেটে পরিমাণ বিতরণ না করে অফলাইনে চলে যায়, এভাবে কেবল আপনার উপার্জিত অর্থ চুরি করে। কল সম্পর্কিত সম্পর্কিত পরিষেবাদিতে আপনার সময় বিনিয়োগ করার সময় আপনার সচেতন হওয়া ও গ্রহণ করার দরকার এইগুলি।
 
-- <a href="http://bit.ly/www-adbtc" target="_blank">adBTC</a>
-- <a href="http://bit.ly/www-btcfox" target="_blank">BtcFox</a>
-- <a href="http://bit.ly/www-btcpop" target="_blank">BTCPop</a>
-- <a href="http://bit.ly/www-cointiply" target="_blank">Cointiply</a>
-- <a href="http://bit.ly/www-cryptofarmer" target="_blank">Crypto Farmer</a>
-- <a href="http://bit.ly/www-cryptomininggame" target="_blank">Crypto Mining Game</a>
-- <a href="http://bit.ly/www-febbit" target="_blank">Febbit</a>
-- <a href="http://bit.ly/www-firefaucet" target="_blank">Fire Faucet</a>
-- <a href="http://bit.ly/www-freebitcoin" target="_blank">FreeBitco.in</a>
-- <a href="http://bit.ly/www-free-dogecoin" target="_blank">Free-Dogecoin</a>
-- <a href="http://bit.ly/www-rollercoin" target="_blank">RollerCoin</a>
+---
+#### ক্রিপ্টো কলগুলি যা এখনও 2020 এ কাজ করে
+
+আমরা নিম্নলিখিত 11 টি কলগুলির প্রস্তাব দিই। তারা তাদের সদস্যদের প্রতি অনুগত থাকে এবং বিনামূল্যে কয়েন বিতরণ করতে থাকে:
+
+
+1. <a href="http://bit.ly/www-adbtc" target="_blank">adBTC</a> - প্রদত্ত 2 সার্ফ সাইট
+2. <a href="http://bit.ly/www-btcfox" target="_blank">BtcFox</a> - একটি আগ্রহের সাথে এক ঘন্টা কল
+3. <a href="http://bit.ly/www-btcpop" target="_blank">BTCPop</a> - প্রতি 30 মিনিটে দাবি করুন, বেশিরভাগ স্টাটকি অল্টকইনস
+4. <a href="http://bit.ly/www-cointiply" target="_blank">Cointiply</a> - একটি আগ্রহের সাথে এক ঘন্টা কল
+5. <a href="http://bit.ly/www-cryptofarmer" target="_blank">Crypto Farmer</a> - ক্রিপ্টো কল কল
+6. <a href="http://bit.ly/www-cryptomininggame" target="_blank">Crypto Mining Game</a> - ক্রিপ্টো কল কল
+7. <a href="http://bit.ly/www-febbit" target="_blank">Febbit</a> - ক্রিপ্টো কল কল
+8. <a href="http://bit.ly/www-firefaucet" target="_blank">Fire Faucet</a> - একটি অটোফেস
+9. <a href="http://bit.ly/www-freebitcoin" target="_blank">FreeBitco.in</a> - একটি আগ্রহের সাথে এক ঘন্টা কল
+10. <a href="http://bit.ly/www-free-dogecoin" target="_blank">Free-Dogecoin</a> - একটি আগ্রহের সাথে এক ঘন্টা কল
+11. <a href="http://bit.ly/www-rollercoin" target="_blank">RollerCoin</a> - ক্রিপ্টো কল কল
 
 ক্রিপ্টো কলগুলির সাথে আপনার অভিজ্ঞতা কী? আপনি কি তাদের কোন চেষ্টা করেছেন? আপনার কোন প্রিয় সাইট আছে?
 
 <div id="commento"></div>
 <script src="https://cdn.commento.io/js/commento.js"></script>
-
----
-#### আমাদের নতুন ক্রিপ্টো-সম্প্রদায়ে যোগদান করুন
-
-এই সাইটটি, all-faucets.com বিশেষত ক্রিপ্টোকারেন্সি কলগুলিতে ফোকাস করে। এবং ডোমেনের নাম থেকে বোঝা যায় যে আমরা "সমস্ত" কলগুলি তালিকাবদ্ধ করব, বাস্তবে কেবলমাত্র হাতে গোনা কয়েকটি কল রয়েছে যা আপনার সময় এবং শ্রমের জন্য উপযুক্ত। যাইহোক, আপনি ক্রিপ্টোকারেন্সি উপার্জন করতে পারেন এমন আরও অনেকগুলি উপায় রয়েছে - মাইনিং, স্টেকিং, আইপিও এবং এয়ারড্রপস, ক্রিটো জবস ইত্যাদি। প্রচুর সুযোগ রয়েছে তবে আপনার সুবিধার জন্য এই সুযোগগুলি ব্যবহার করার জন্য আপনাকে মানের তথ্য প্রয়োজন।
-
-এই কারণেই আমি একটি নতুন সম্প্রদায় সাইট, <a href="https://www.staleblock.com/" target="_blank">StaleBlock.com</a>. শুরু করেছি। ক্রিপ্টো বিশ্ব ক্রিপ্টো কল থেকে অনেক বেশি এগিয়ে যায়! <i>StaleBlock.com</i> এ একটি বুদ্ধিমান ক্রিপ্টো-সম্প্রদায় তৈরি করতে আমার সাথে যোগ দিন।
